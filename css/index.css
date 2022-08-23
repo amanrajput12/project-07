@@ -5,8 +5,7 @@
 }
 body {
     font-family: "Poppins";
-    /* max-width: 80rem; */
-    /* margin: 0 auto; */
+    
   
 }
 /* navbar */
@@ -177,6 +176,7 @@ img[src="./images/headphones.jpg" ] {
     .intro-section{
         display: flex;
         flex-direction: column-reverse;
+        width: 100vh;
     }
     .left-section{
         display: flex;
