@@ -1,4 +1,4 @@
-# project-06 #
+# project-07 #
 [project-live](https://fswd-project7.netlify.app)
    - - - -
  # Technology used in this project #
